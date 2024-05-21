@@ -13,7 +13,7 @@ function calculoImpostoDeRenda(salarioBruto) {
     } else {
         impostoDeRenda = 0
     }
-    return impostoDeRenda
+    return Number(impostoDeRenda.toFixed(2))
 }
 
 module.exports = calculoImpostoDeRenda
