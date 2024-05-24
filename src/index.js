@@ -95,3 +95,6 @@ console.log(contador2())
 
 const calcularProduto = require("./M01S02/Reducao_de_Arrays")
 calcularProduto
+
+const transformarArray = require("./M01S02/Funcao_de_Alta_Ordem")
+transformarArray
