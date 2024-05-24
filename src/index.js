@@ -92,3 +92,6 @@ console.log(contador1())
 let contador2 = contador()
 console.log(contador2())
 console.log(contador2())
+
+const calcularProduto = require("./M01S02/Reducao_de_Arrays")
+calcularProduto
