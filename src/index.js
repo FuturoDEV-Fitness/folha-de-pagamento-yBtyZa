@@ -79,3 +79,6 @@ filtrarPares
 
 const filtrarAdultos = require("./M01S02/Manipulacao_de_Objetos");
 filtrarAdultos
+
+const agruparPorCategoria = require("./M01S02/Agrupamento_de_Dados");
+agruparPorCategoria
