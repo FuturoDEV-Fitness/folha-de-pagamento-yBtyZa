@@ -98,3 +98,6 @@ calcularProduto
 
 const transformarArray = require("./M01S02/Funcao_de_Alta_Ordem")
 transformarArray
+
+const compor = require("./M01S02/Composicao_de_Funcoes")
+compor
