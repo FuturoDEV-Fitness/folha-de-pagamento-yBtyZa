@@ -76,3 +76,6 @@
 
 const filtrarPares = require("./M01S02/Manipulacao_Basica_de_Arrays");
 filtrarPares
+
+const filtrarAdultos = require("./M01S02/Manipulacao_de_Objetos");
+filtrarAdultos
