@@ -82,3 +82,13 @@ filtrarAdultos
 
 const agruparPorCategoria = require("./M01S02/Agrupamento_de_Dados");
 agruparPorCategoria
+
+const contador = require("./M01S02/Funcoes_Que_Retornam_Funcoes");
+let contador1 = contador()
+console.log(contador1())
+console.log(contador1())
+console.log(contador1())
+
+let contador2 = contador()
+console.log(contador2())
+console.log(contador2())
